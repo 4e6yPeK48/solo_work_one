@@ -46,14 +46,17 @@
 
 ## Тесты
 
-Файл `test_stack.py` содержит модульные тесты для класса `Stack` и алгоритма быстрой сортировки.
+Файл `test_stack.py` содержит модульные тесты для класса `Stack`.
 
 - `test_push_pop(self) -> None`: Тестирует методы `push` и `pop`.
 - `test_peek(self) -> None`: Тестирует метод `peek`.
 - `test_is_empty(self) -> None`: Тестирует метод `is_empty`.
 - `test_clear(self) -> None`: Тестирует метод `clear`.
 - `test_print(self) -> None`: Тестирует метод `__str__`.
-- `test_sort_stack(self) -> None`: Тестирует функцию `sort_stack`.
+
+Файл `test_quicksort.py` содержит модульные тесты для функции `quicksort`.
+
+- ` test_sort_stack(self) -> None`: Тестирует функцию `sort_stack`.
 
 ## Использование
 
